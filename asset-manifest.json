@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.038895a2.css",
+    "main.js": "/static/js/main.827bfc50.js",
+    "static/media/sda.jpg": "/static/media/sda.e2dcadc20b90c145e165.jpg",
+    "static/media/by.png": "/static/media/by.8c9b3aa5ed105bf58d4f.png",
+    "static/media/GB GALA (3).jpg": "/static/media/GB GALA (3).96033528517bfa4584c0.jpg",
+    "static/media/GB GALA (4).jpg": "/static/media/GB GALA (4).a75771371d49199d0194.jpg",
+    "static/media/4.PNG": "/static/media/4.bebd2d460b215b21b4e5.PNG",
+    "static/media/EP1.JPG": "/static/media/EP1.77cda5b3861deee514ef.JPG",
+    "static/media/dsadas.pdf": "/static/media/dsadas.f22630ad24d433ccbdde.pdf",
+    "static/media/ep2.JPG": "/static/media/ep2.1a4a2277cad3e21e3d6c.JPG",
+    "static/media/boy.png": "/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/footer_black_design.png": "/static/media/footer_black_design.08be74cbbf5dc1ff72e9.png",
+    "static/media/glasses.png": "/static/media/glasses.f5e4235bdd64f297c205.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.215a73c32d906a5510cc.png",
+    "static/media/11.jpg": "/static/media/11.44273cb5083d22bd627e.jpg",
+    "static/media/humble.png": "/static/media/humble.8ed31914a17ebba82a24.png",
+    "index.html": "/index.html",
+    "main.038895a2.css.map": "/static/css/main.038895a2.css.map",
+    "main.827bfc50.js.map": "/static/js/main.827bfc50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.038895a2.css",
+    "static/js/main.827bfc50.js"
+  ]
+}
