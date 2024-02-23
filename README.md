@@ -65,6 +65,3 @@ Specify the license under which your project is released, or state that all righ
 
 ---
 
-**Note**: This README is a basic template for a personal portfolio website project. You should customize it according to the specific features and details of your project. 
-
-You can save this content in a file named `README.md` in your project directory. This will provide a clear and structured overview of your personal portfolio website project.
